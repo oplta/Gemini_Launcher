@@ -11,37 +11,45 @@
 
 ## 🇹🇷 Türkçe
 
-Gemini Launcher, Google'ın Gemini CLI aracını Windows sistemlerinde kolayca başlatmak, bellek limitlerini yönetmek ve sorunsuz bir deneyim sunmak için tasarlanmış gelişmiş bir başlatıcıdır. **v2 sürümü ile otomatik kurulum ve onarım özellikleri eklenmiştir.**
+Gemini Launcher, Google'ın Gemini CLI aracını Windows sistemlerinde kolayca başlatmak, bellek limitlerini yönetmek ve sorunsuz bir deneyim sunmak için tasarlanmış gelişmiş bir başlatıcıdır.
+
+**v3 Güncellemesi:** Yepyeni menü sistemi ve çoklu dil desteği!
 
 ### 🚀 Özellikler
 
-*   **Otomatik Kurulum & Onarım:** Gemini CLI yüklü değilse otomatik kurar, bozulursa onarır.
-*   **Akıllı Güncelleme:** Başlangıçta güncellemeleri kontrol eder.
-*   **Otomatik Yetki Yönetimi:** Yönetici haklarını otomatik olarak kontrol eder ve ister.
-*   **Bellek Optimizasyonu:** Büyük modellerle çalışabilmek için Node.js bellek limitini (4GB+) artırır.
+*   **🌍 Çoklu Dil Desteği:** Türkçe ve İngilizce dil seçeneği.
+*   **📋 Ana Menü Sistemi:** Başlat, Güncelle, Onar, Kaldır seçenekleri tek ekranda.
+*   **🔗 Kısayol Oluşturucu:** Tek tıkla masaüstüne ikonlu kısayol oluşturun.
+*   **🛠️ Otomatik Kurulum & Onarım:** Gemini CLI eksikse kurar, bozuksa onarır.
+*   **⚡ Bellek Optimizasyonu:** Büyük modeller için Node.js belleğini (4GB+) artırır.
 
 ### 📦 Kurulum
 
 1.  Bu projeyi indirin veya kopyalayın.
 2.  `GeminiLauncher.bat` dosyasına çift tıklayın.
+3.  Dilinizi seçin ve menüden istediğiniz işlemi yapın.
 
 ---
 
 ## 🇬🇧 English
 
-Gemini Launcher is an advanced launcher designed to easily start Google's Gemini CLI on Windows systems, manage memory limits, and provide a seamless experience. **v2 adds auto-installation and self-healing capabilities.**
+Gemini Launcher is an advanced launcher designed to easily start Google's Gemini CLI on Windows systems, manage memory limits, and provide a seamless experience.
+
+**v3 Update:** New menu system and multi-language support!
 
 ### 🚀 Features
 
-*   **Auto-Install & Repair:** Automatically installs Gemini CLI if missing, and repairs it if broken.
-*   **Smart Updates:** Checks for updates on startup.
-*   **Auto Privilege Management:** Automatically requests Administrator privileges.
-*   **Memory Optimization:** Increases Node.js memory limit (4GB+) for handling large models.
+*   **🌍 Multi-Language:** Turkish and English language options.
+*   **📋 Main Menu System:** Launch, Update, Repair, Uninstall all in one place.
+*   **🔗 Shortcut Creator:** Create a desktop shortcut with one click.
+*   **🛠️ Auto-Install & Repair:** Installs Gemini CLI if missing, repairs if broken.
+*   **⚡ Memory Optimization:** Increases Node.js memory (4GB+) for large models.
 
 ### 📦 Installation
 
 1.  Download or clone this project.
 2.  Double-click `GeminiLauncher.bat`.
+3.  Select your language and choose an action from the menu.
 
 ---
 
